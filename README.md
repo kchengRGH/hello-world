@@ -1,2 +1,2 @@
 # hello-world
-Test new repository
+This is a readme file.
